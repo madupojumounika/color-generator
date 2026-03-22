@@ -25,7 +25,7 @@ Generate beautiful colors, gradients, and explore color combinations in real-tim
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/madupojumounika/color-generator/blob/efdcaabd639570a7a6281c40fc9b326327d7edc5/Screenshot-img.png)
 
 ---
 
