@@ -53,9 +53,13 @@ Color_Generator/
 ## 🎯 How It Works
 
 👉 Click **Random Color** → generates random color
+
 👉 Click **Gradient** → creates gradient
+
 👉 Click **Copy** → copies color code
+
 👉 Click **Dark Mode** → switches theme
+
 👉 Click history boxes → reuse colors
 
 ---
