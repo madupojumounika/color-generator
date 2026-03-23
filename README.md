@@ -8,9 +8,13 @@ Generate beautiful colors, gradients, and explore color combinations in real-tim
 ## ✨ Features
 
 🎲 Random Color Generator
+
 🌈 Gradient Background Generator
+
 📋 Copy Color Code instantly
+
 🕘 Color History (click to reuse)
+
 🌙 Dark Mode Toggle
 
 ---
